@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/stanzin24565/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/stanzin24565/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/stanzin24565/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stanzin24565/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/stanzin24565/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Linked List
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/stanzin24565/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/stanzin24565/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/stanzin24565/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/stanzin24565/leetcode/tree/master/0012-integer-to-roman) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/stanzin24565/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/stanzin24565/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/stanzin24565/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/stanzin24565/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/stanzin24565/leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/stanzin24565/leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/stanzin24565/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/stanzin24565/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
